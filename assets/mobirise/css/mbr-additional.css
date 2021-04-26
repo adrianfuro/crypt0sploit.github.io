@@ -1066,6 +1066,10 @@ a {
 .cid-svBspwAFhq .card-wrapper .card-title {
   color: #ffffff;
 }
+.cid-svBspwAFhq .card-wrapper .card-title,
+.cid-svBspwAFhq .card-box {
+  text-align: center;
+}
 .cid-svCZQnoiby {
   padding-top: 10rem;
   padding-bottom: 10rem;
