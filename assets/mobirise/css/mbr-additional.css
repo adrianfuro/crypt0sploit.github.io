@@ -1022,6 +1022,9 @@ a {
     left: -1rem;
   }
 }
+.cid-svBspwAFhq {
+  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
+}
 .cid-svBspwAFhq .icons-media-container {
   display: flex;
   -webkit-justify-content: center;
@@ -1128,6 +1131,7 @@ a {
 .cid-svCZQnoiby {
   padding-top: 10rem;
   padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-1-1920x1281.jpg");
 }
 .cid-svCZQnoiby .mbr-iconfont {
   display: block;
